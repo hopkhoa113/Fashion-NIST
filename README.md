@@ -1,3 +1,4 @@
+# NGUYEN Y HOP- 1612221
 # Software requirements
 Python 3.6, TensorFlow 1.11.0, Keras 2.2.4, numpy, matplotlib, scikit-learn, h5py
 
