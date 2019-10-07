@@ -60,7 +60,9 @@ Nếu không muốn training dữ liệu, bạn cũng có thể tải model đã
 Run file: Fashion_Predict.ipynb
 
 
-# Accuracy
+# Experiment
+
+Accuracy
 
 | Model | Parametter | train_acc | val_acc | test_acc |
 | --- | --- | --- | --- | --- |
@@ -68,6 +70,18 @@ Run file: Fashion_Predict.ipynb
 | model 2 | 544,522 | 0.9880 | 0.9312 | 0.9378 |
 | model 3 | 1,224,138 | 0.9632 | 0.9356 | 0.9412 |
 | model 4 | 2,272,714 | 0.9669 | 0.9366 | **0.9426** |
+
+## Results
+
+Model traing trên training set 60,000 samples với 48,000 training set và 12,000 valid set.
+I train with 64 epochs and batch_size = 128 on kerras.
+I evaluate on Test set 10,000k samples.
+
+* Traning accuracy: 0.9669
+
+* Validation accuracy: 0.9366
+
+* Test accuracy: 0.9426
 
 
 
