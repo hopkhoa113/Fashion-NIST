@@ -74,8 +74,8 @@ Accuracy
 ## Results
 
 Model traing trên training set 60,000 samples với 48,000 training set và 12,000 valid set.
-I train with 64 epochs and batch_size = 128 on kerras.
-I evaluate on Test set 10,000k samples.
+Với 64 epochs và batch_size = 128 on kerras.
+Đánh giá trên 10,000k samples.
 
 * Traning accuracy: 0.9669
 
