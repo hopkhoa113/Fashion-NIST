@@ -1,5 +1,2 @@
 # Fashion-NIST
-## Quá Trình Cải Tiến Mô Hình
-
-### 1. Model 1
-![Image description](https://github.com/hopkhoa113/Fashion-NIST/blob/master/model_image/model_1.png)
+Fashion-MNIST là bộ dữ liệu hình ảnh của Zalando, bao gồm một tập huấn gồm 60.000 ví dụ và một bộ thử nghiệm gồm 10.000 ví dụ. Mỗi ví dụ là một hình ảnh thang độ xám 28x28, được liên kết với một nhãn từ 10 lớp. Zalando dự định Fashion-MNIST sẽ đóng vai trò thay thế trực tiếp cho bộ dữ liệu MNIST ban đầu cho các thuật toán học máy chuẩn. Nó chia sẻ cùng kích thước hình ảnh và cấu trúc của các phần tách đào tạo và kiểm tra.
