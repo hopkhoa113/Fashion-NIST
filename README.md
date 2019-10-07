@@ -45,6 +45,21 @@ Dữ liệu được chia thành 3 tập: Train, Validation, Test:
 
 [Model 4](model_image/model_4.png)
 
+# Run Program
+
+Tải về 2 file: **fashion-mnist_train.csv** và **fashion-mnist_test.csv** theo đường link dưới
+
+Link: [Fashion-NIST](https://www.kaggle.com/zalando-research/fashionmnist)
+
+Thực hiện training data: Fashion_NIST_main.ipynb
+
+Sau khi chạy xong chương trình sẽ tạo ra file: **model.h5**
+
+Nếu không muốn training dữ liệu, bạn cũng có thể tải model đã được training sẵn theo đường dẫn sau: [pre_train model](https://drive.google.com/open?id=1wuHsxJE4QRezARDvmb8NOGLVLb-bciRk)
+
+Run file: Fashion_Predict.ipynb
+
+
 # Accuracy
 
 | Model | Parametter | train_acc | val_acc | test_acc |
